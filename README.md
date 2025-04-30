@@ -19,7 +19,7 @@
 
 ## Folder Structure
 
-No configuration or complicated folder structures, just the files you need to build your app:
+No configuration or complicated folder structuresgg, just the files you need to build your app:
 
 ```
 vite-template-react
